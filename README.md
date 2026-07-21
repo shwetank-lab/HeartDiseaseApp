@@ -32,6 +32,6 @@ Low Risk ✅
 Better UI design
 Add prediction probability
 Deploy online
-👨‍💻 Author:  Shwetank Dev
+     👨‍💻 Author:  Shwetank Dev
 
 Your Name
